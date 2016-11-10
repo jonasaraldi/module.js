@@ -6,7 +6,7 @@ Defining a constructor method name for the module
 
 ```javascript
 Module.config({
-	constructor: "initialize"
+	constructor: "initialize" // optional, default: null
 });
 ```
 
